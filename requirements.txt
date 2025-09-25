@@ -1,0 +1,22 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Machine Learning
+tensorflow
+numpy
+pillow
+scikit-learn
+
+# Image processing and data manipulation
+matplotlib
+opencv-python-headless
+
+# Web scraping (for data acquisition)
+selenium
+requests
+
+# Utilities
+python-dotenv
+pydantic
